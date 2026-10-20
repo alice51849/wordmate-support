@@ -1,0 +1,17 @@
+# Wordmate: Learn 44 Languages support
+
+> Official support, help and privacy pages for Wordmate: Learn 44 Languages, an iOS app by Lumi Studio.
+
+- App Store: https://apps.apple.com/app/id6789917808
+- Platform: iOS
+- App Store category: Education
+- Developer: Lumi Studio
+
+## Pages
+
+- [Home](https://open.cait518.cc/wordmate-support/)
+- [Help, FAQ and troubleshooting](https://open.cait518.cc/wordmate-support/help.html)
+- [Support and contact](https://open.cait518.cc/wordmate-support/support.html)
+- [Privacy policy](https://open.cait518.cc/wordmate-support/privacy.html)
+
+<!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
