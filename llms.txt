@@ -14,4 +14,13 @@
 - [Support and contact](https://open.cait518.cc/wordmate-support/support.html)
 - [Privacy policy](https://open.cait518.cc/wordmate-support/privacy.html)
 
+<!-- sqe-blitz:start -->
+## About the app (plain-language Q&A)
+
+- [What is Wordmate? A vocabulary app for 44 languages with a widget and Apple Watch](https://open.cait518.cc/wordmate-support/what-is-wordmate.html)
+- [Что такое Wordmate? Приложение для изучения слов на 44 языках с виджетом и Apple Watch](https://open.cait518.cc/wordmate-support/what-is-wordmate.ru.html)
+- [Wordmateとは？ウィジェットとApple Watchで覚える44言語の単語帳](https://open.cait518.cc/wordmate-support/what-is-wordmate.ja.html)
+- [¿Qué es Wordmate? Vocabulario en 44 idiomas con widget y Apple Watch](https://open.cait518.cc/wordmate-support/what-is-wordmate.es-ES.html)
+<!-- sqe-blitz:end -->
+
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
